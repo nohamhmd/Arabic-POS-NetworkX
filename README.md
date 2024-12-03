@@ -67,7 +67,7 @@ Error analysis indicated that:
 ## Conclusion
 This project demonstrates the effectiveness of BiLSTM models for POS tagging in Arabic, providing a strong foundation for future enhancements and adaptations to other NLP tasks.
 
-## Libraries/Frameworks**: 
+## Libraries/Frameworks: 
   - Data Handling: `pandas`, `pyconll`
   - NLP: `spaCy`, `NLTK`, `arabic_reshaper`
   - Modeling: `TensorFlow`, `Keras`, `scikit-learn`
