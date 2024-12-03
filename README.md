@@ -37,6 +37,8 @@ To ensure clean and consistent data, the following preprocessing steps were perf
 - **Graph Type**: Directed graph (DiGraph) for sequential relationships.
 - **Nodes**: Each token is represented as a node with its POS tag.
 - **Edges**: Directed edges connect consecutive tokens.
+![image](https://github.com/user-attachments/assets/2ef003f1-448b-4622-9634-f92ae0c24cde)
+
 
 ## Modeling
 The project utilizes a **Bidirectional LSTM** model, well-suited for sequence labeling tasks.
