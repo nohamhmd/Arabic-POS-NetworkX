@@ -2,7 +2,8 @@
 # Semantic Search with Vector Databases  
 
 This repository demonstrates the implementation of **semantic search** using **vector embeddings** and a **vector database**. It explores how to preprocess, embed, and store textual data for efficient semantic search and retrieval.  
-![Uploading Screenshot 2024-11-30 200404.png…]()
+![Screenshot 2024-11-30 200404](https://github.com/user-attachments/assets/2943ba67-e9cc-4287-a0b8-eb0b017100d8)
+
 
 
 ---
