@@ -73,3 +73,5 @@ This project demonstrates the effectiveness of BiLSTM models for POS tagging in 
   - Modeling: `TensorFlow`, `Keras`, `scikit-learn`
   - Visualization: `NetworkX`, `matplotlib`, `seaborn`
   - Additional: `numpy`, `re`
+
+## Dataset: https://github.com/UniversalDependencies/UD_Arabic-PADT
